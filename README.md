@@ -1,1 +1,1 @@
-# striver-dsa-practice
+# dsa-practice
