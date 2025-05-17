@@ -9,7 +9,7 @@ public class PrintAllDivisors {
 
     // Time complexity O(n)
     public static void printAllDivisorsApproach1(int number){
-        for(int i =1; i<number;i++){
+        for(int i =1; i<=number;i++){
             if(number%i==0){
                 System.out.print(i+" ");
             }
